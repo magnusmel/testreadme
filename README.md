@@ -1,4 +1,4 @@
-# PROJECT Name: 
+# Project Title: 
 ### Project Start date:
 ### Project Owner:
 
@@ -6,12 +6,12 @@
 
 # Table of contents
 * [Project Version History info](#version-info)
-* [Project General info](#general-info)
-* [Screenshots] (#screenshots)
+* [Project General info](#project-general-info)
+* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Built With](#builtwith)
 * [Setup](#setup)
-* [Tests] (#tests)
+* [Tests](#tests)
 * [Deployment](#deployment)
 * [Contributing ](#Contributing)
 * [Authors](#authors)
@@ -116,4 +116,3 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
- 
