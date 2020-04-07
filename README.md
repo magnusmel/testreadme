@@ -1,6 +1,6 @@
 # PROJECT Name: 
-## Project Start date:
-## Project Owner:
+### Project Start date:
+### Project Owner:
 
 > Project Description:
 
@@ -90,7 +90,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-## And coding style tests
+### And coding style tests
 
 Explain what these tests test and why
 
@@ -116,3 +116,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
+ 
