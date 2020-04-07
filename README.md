@@ -1,6 +1,8 @@
 # PROJECT Name: 
-# Project Start date:
-# Project Owner:
+## Project Start date:
+## Project Owner:
+
+> Project Description:
 
 # Table of contents
 * [Project Version History info](#version-info)
@@ -35,8 +37,7 @@ These instructions will get you a copy of the project up and running on your loc
 One Paragraph of project description goes here
 
 ## Screenshots
-[IMAGE 1]
-
+![Example screenshot](./img/screenshot.png)
 
 ## Technologies
 
