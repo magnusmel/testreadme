@@ -9,7 +9,7 @@
 * [Project General info](#project-general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Built With](#builtwith)
+* [Built With](#built-with)
 * [Setup](#setup)
 * [Tests](#tests)
 * [Deployment](#deployment)
