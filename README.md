@@ -5,7 +5,7 @@
 > Project Description:
 
 # Table of contents
-* [Project Version History info](#version-info)
+* [Project Release info](#project-release-info)
 * [Project General info](#project-general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
@@ -17,7 +17,7 @@
 * [Authors](#authors)
 
 
-## Project Version history Info
+## Project Release Info
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
