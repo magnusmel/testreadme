@@ -11,7 +11,7 @@
 * [Technologies](#technologies)
 * [Built With](#builtwith)
 * [Setup](#setup)
-* [Running the tests] (#tests)
+* [Tests] (#tests)
 * [Deployment](#deployment)
 * [Contributing ](#Contributing)
 * [Authors](#authors)
@@ -42,9 +42,10 @@ One Paragraph of project description goes here
 ## Technologies
 
 Mention all technologies/languages used in this project and their versions being used.
-# Technology1 - Version 1.x
-# Technology2 - Version 2.x
-
+* Angular version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
 ### Built With
 Mention all frameworks used here
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
@@ -77,7 +78,7 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Tests
 
 Explain how to run the automated tests for this system
 
